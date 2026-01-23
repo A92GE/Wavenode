@@ -7,4 +7,4 @@ Automatic selection of Wavenode sensors by band
 
 ##Screenshot
 
-1![Wavenode](Screenshots/Screenshot_v1_8.png)
+1![Wavenode](Screenshots/Screenshot_v_1_8.png)
