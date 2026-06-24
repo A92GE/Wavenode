@@ -1,3 +1,4 @@
+
 # Wavenode
 Wavenode WN-2d to Thetis Bridge
 
@@ -8,3 +9,20 @@ Automatic selection of Wavenode sensors by band
 ## Screenshot
 
 1![Wavenode](Screenshots/Screenshot_v_1_8.png)
+
+The Thetis Network Settings to correspond with the above screenshot would be as follows:
+
+<img width="746" height="547" alt="Thetis Network Settings" src="https://github.com/user-attachments/assets/2415ee5e-f4f5-4413-a28e-ed6d7ecb1b9f" />
+
+The Thetis Multimeter I/O settings are as follows:
+
+<img width="746" height="546" alt="Thetis Multimeter IO" src="https://github.com/user-attachments/assets/7ff1f75d-2849-49fe-88ad-b5049aad76b3" />
+
+The Thetis Meters/Gadgets can then be used to display the data as required. 
+
+The commands for buttons to switch the digital outputs are:
+  {"command":"swr_reset"}
+  {"logic":"out1"}
+  {"logic":"out2"}
+  {"logic":"out3"}
+  {"logic":"out4"}
