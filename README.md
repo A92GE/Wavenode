@@ -21,7 +21,10 @@ The Thetis Multimeter I/O settings are as follows:
 
 The Thetis Meters/Gadgets can then be used to display the data as required. 
 
+<img width="266" height="641" alt="Sample Thetis Gadget" src="https://github.com/user-attachments/assets/93c809c0-9320-4cc7-bca7-09f74136ded0" />
+
 The commands for buttons to switch the digital outputs are:
+  
   {"command":"swr_reset"}
   {"out1": true} {"out1": false}
   {"out2": true} {"out2: false}
