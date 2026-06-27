@@ -9,7 +9,7 @@ Sensors S2-4 are automatically selected by band (only one can be active at a tim
 
 ## Screenshot
 
-[Wavenode](Screenshots/Screenshot_v_1_8.png)
+<img width="835" height="547" alt="screenshot_2 0" src="https://github.com/user-attachments/assets/1575cd6f-4c87-417d-a8f2-ed8ee2df6442" />
 
 The Thetis Network Settings to correspond with the above screenshot would be as follows:
 
