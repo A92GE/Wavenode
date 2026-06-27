@@ -22,7 +22,7 @@ The Thetis Meters/Gadgets can then be used to display the data as required.
 
 The commands for buttons to switch the digital outputs are:
   {"command":"swr_reset"}
-  {"logic":"out1"}
-  {"logic":"out2"}
-  {"logic":"out3"}
-  {"logic":"out4"}
+  {"out1": true} {"out1": false}
+  {"out2": true} {"out2: false}
+  {"out3": true} {"out3": false}
+  {"out4": true} {"out4": false}
