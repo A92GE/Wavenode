@@ -19,9 +19,11 @@ The Thetis Multimeter I/O settings are as follows:
 
 <img width="746" height="546" alt="Thetis Multimeter IO" src="https://github.com/user-attachments/assets/7ff1f75d-2849-49fe-88ad-b5049aad76b3" />
 
-The Thetis Meters/Gadgets can then be used to display the data as required. 
+The Thetis Meters/Gadgets can then be used to display the data as required. A sample Gadget file is included:
+
 
 <img width="266" height="641" alt="Sample Thetis Gadget" src="https://github.com/user-attachments/assets/93c809c0-9320-4cc7-bca7-09f74136ded0" />
+
 
 The commands for buttons to switch the digital outputs are:
   
